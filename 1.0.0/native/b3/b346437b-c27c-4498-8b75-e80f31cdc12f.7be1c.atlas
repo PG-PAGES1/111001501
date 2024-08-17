@@ -1,0 +1,27 @@
+
+dunpai.png
+size: 695,324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dajiangtishi/victory_bg
+  rotate: false
+  xy: 1, 30
+  size: 453, 293
+  orig: 455, 295
+  offset: 1, 1
+  index: -1
+dajiangtishi/victory_sword
+  rotate: true
+  xy: 456, 1
+  size: 82, 187
+  orig: 90, 190
+  offset: 3, 0
+  index: -1
+tongyongUIguangxiao/victory_glare
+  rotate: false
+  xy: 456, 85
+  size: 238, 238
+  orig: 238, 238
+  offset: 0, 0
+  index: -1

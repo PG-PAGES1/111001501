@@ -1,0 +1,209 @@
+
+spacielbg.png
+size: 972,527
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_08
+  rotate: false
+  xy: 798, 201
+  size: 165, 65
+  orig: 165, 65
+  offset: 0, 0
+  index: -1
+bg_09
+  rotate: false
+  xy: 869, 142
+  size: 102, 57
+  orig: 106, 57
+  offset: 4, 0
+  index: -1
+bg_10
+  rotate: false
+  xy: 542, 447
+  size: 208, 79
+  orig: 209, 79
+  offset: 0, 0
+  index: -1
+bg_11
+  rotate: false
+  xy: 536, 267
+  size: 169, 143
+  orig: 176, 143
+  offset: 6, 0
+  index: -1
+bg_12
+  rotate: true
+  xy: 1, 207
+  size: 319, 155
+  orig: 322, 155
+  offset: 3, 0
+  index: -1
+bg_13
+  rotate: true
+  xy: 1, 7
+  size: 198, 154
+  orig: 198, 154
+  offset: 0, 0
+  index: -1
+fg_01_top
+  rotate: true
+  xy: 707, 268
+  size: 12, 126
+  orig: 12, 126
+  offset: 0, 0
+  index: -1
+fg_02_top
+  rotate: true
+  xy: 741, 282
+  size: 128, 66
+  orig: 128, 66
+  offset: 0, 0
+  index: -1
+firestick
+  rotate: true
+  xy: 664, 423
+  size: 22, 21
+  orig: 24, 24
+  offset: 0, 3
+  index: -1
+huoshanbeijingdongxiao01/lava_loop_12fps_00
+  rotate: true
+  xy: 158, 216
+  size: 32, 126
+  orig: 32, 126
+  offset: 0, 0
+  index: -1
+huoshanbeijingdongxiao01/lava_loop_12fps_01
+  rotate: true
+  xy: 286, 216
+  size: 32, 126
+  orig: 32, 126
+  offset: 0, 0
+  index: -1
+huoshanbeijingdongxiao01/lava_loop_12fps_02
+  rotate: true
+  xy: 414, 222
+  size: 32, 126
+  orig: 32, 126
+  offset: 0, 0
+  index: -1
+huoshanbeijingdongxiao01/lava_loop_12fps_03
+  rotate: true
+  xy: 536, 413
+  size: 32, 126
+  orig: 32, 126
+  offset: 0, 0
+  index: -1
+huoshanbeijingdongxiao01/lava_loop_12fps_04
+  rotate: true
+  xy: 542, 233
+  size: 32, 126
+  orig: 32, 126
+  offset: 0, 0
+  index: -1
+huoshanbeijingdongxiao01/lava_loop_12fps_05
+  rotate: true
+  xy: 670, 233
+  size: 32, 126
+  orig: 32, 126
+  offset: 0, 0
+  index: -1
+huoshanbeijingdongxiao01/lava_loop_12fps_06
+  rotate: false
+  xy: 707, 319
+  size: 32, 126
+  orig: 32, 126
+  offset: 0, 0
+  index: -1
+huoshanbeijingdongxiao01/lava_loop_12fps_07
+  rotate: false
+  xy: 809, 284
+  size: 32, 126
+  orig: 32, 126
+  offset: 0, 0
+  index: -1
+huoshanbeijingdongxiao01/lava_loop_12fps_08
+  rotate: true
+  xy: 843, 378
+  size: 32, 126
+  orig: 32, 126
+  offset: 0, 0
+  index: -1
+huoshanbeijingdongxiao01/lava_loop_12fps_09
+  rotate: true
+  xy: 843, 344
+  size: 32, 126
+  orig: 32, 126
+  offset: 0, 0
+  index: -1
+huoshanbeijingdongxiao01/lava_loop_12fps_10
+  rotate: true
+  xy: 843, 310
+  size: 32, 126
+  orig: 32, 126
+  offset: 0, 0
+  index: -1
+huoshanbeijingdongxiao01/lava_loop_12fps_11
+  rotate: true
+  xy: 843, 276
+  size: 32, 126
+  orig: 32, 126
+  offset: 0, 0
+  index: -1
+mg_01
+  rotate: true
+  xy: 158, 250
+  size: 276, 213
+  orig: 276, 213
+  offset: 0, 0
+  index: -1
+mg_02
+  rotate: false
+  xy: 533, 1
+  size: 219, 219
+  orig: 219, 219
+  offset: 0, 0
+  index: -1
+mg_03
+  rotate: false
+  xy: 869, 77
+  size: 78, 63
+  orig: 78, 63
+  offset: 0, 0
+  index: -1
+mg_04
+  rotate: true
+  xy: 373, 256
+  size: 270, 161
+  orig: 270, 161
+  offset: 0, 0
+  index: -1
+mg_05
+  rotate: false
+  xy: 405, 4
+  size: 126, 210
+  orig: 126, 210
+  offset: 0, 0
+  index: -1
+mg_06
+  rotate: false
+  xy: 157, 14
+  size: 246, 191
+  orig: 247, 192
+  offset: 0, 0
+  index: -1
+mg_07
+  rotate: false
+  xy: 754, 412
+  size: 217, 114
+  orig: 217, 115
+  offset: 0, 0
+  index: -1
+senlinbeijing
+  rotate: true
+  xy: 754, 8
+  size: 191, 113
+  orig: 191, 113
+  offset: 0, 0
+  index: -1

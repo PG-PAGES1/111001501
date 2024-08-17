@@ -1,0 +1,13 @@
+
+xuanyun.png
+size: 59,59
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dizzy_star
+  rotate: false
+  xy: 2, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1

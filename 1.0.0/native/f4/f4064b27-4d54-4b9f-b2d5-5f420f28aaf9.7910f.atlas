@@ -1,0 +1,314 @@
+
+gargoyle.png
+size: 465,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L_Arm
+  rotate: true
+  xy: 316, 143
+  size: 41, 79
+  orig: 41, 81
+  offset: 0, 2
+  index: -1
+Arm_L_Finger_01_A
+  rotate: false
+  xy: 305, 2
+  size: 13, 21
+  orig: 13, 22
+  offset: 0, 1
+  index: -1
+Arm_L_Finger_01_B
+  rotate: false
+  xy: 293, 131
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+Arm_L_Finger_02_A
+  rotate: false
+  xy: 238, 2
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Arm_L_Finger_02_B
+  rotate: false
+  xy: 252, 2
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+Arm_L_Finger_03_A
+  rotate: true
+  xy: 375, 2
+  size: 15, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+Arm_L_Finger_03_B
+  rotate: true
+  xy: 273, 3
+  size: 7, 17
+  orig: 7, 17
+  offset: 0, 0
+  index: -1
+Arm_L_Wrist
+  rotate: true
+  xy: 414, 19
+  size: 26, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+Arm_RWrist
+  rotate: false
+  xy: 320, 4
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+Arm_R_Arm
+  rotate: true
+  xy: 309, 25
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1
+Arm_R_Finger_01_A
+  rotate: false
+  xy: 379, 102
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+Arm_R_Finger_01_B
+  rotate: true
+  xy: 379, 123
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+Arm_R_Finger_02_A
+  rotate: true
+  xy: 379, 93
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+Arm_R_Finger_02_B
+  rotate: false
+  xy: 164, 44
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+Arm_R_Finger_03_A
+  rotate: true
+  xy: 451, 103
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+Arm_R_Finger_03_B
+  rotate: true
+  xy: 189, 46
+  size: 7, 18
+  orig: 7, 18
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 125, 182
+  size: 80, 102
+  orig: 80, 102
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 117
+  size: 114, 73
+  orig: 114, 73
+  offset: 0, 0
+  index: -1
+L_Wing_Flap_01
+  rotate: true
+  xy: 118, 112
+  size: 68, 87
+  orig: 68, 87
+  offset: 0, 0
+  index: -1
+L_Wing_Flap_02
+  rotate: false
+  xy: 81, 44
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+L_Wing_Flap_03
+  rotate: false
+  xy: 81, 5
+  size: 98, 37
+  orig: 98, 37
+  offset: 0, 0
+  index: -1
+L_Wing_Flap_04
+  rotate: false
+  xy: 239, 44
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+L_Wing_Flap_05
+  rotate: true
+  xy: 397, 92
+  size: 77, 52
+  orig: 77, 52
+  offset: 0, 0
+  index: -1
+L_Wing_Flap_05_B
+  rotate: false
+  xy: 164, 55
+  size: 73, 55
+  orig: 73, 55
+  offset: 0, 0
+  index: -1
+L_Wing_Flap_06
+  rotate: false
+  xy: 207, 115
+  size: 84, 65
+  orig: 84, 65
+  offset: 0, 0
+  index: -1
+Leg_L_Calf_02
+  rotate: false
+  xy: 441, 27
+  size: 18, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Leg_L_Foot_03
+  rotate: true
+  xy: 381, 19
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+Leg_L_Thigh_01
+  rotate: false
+  xy: 381, 46
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+Leg_R_Calf_02
+  rotate: false
+  xy: 441, 5
+  size: 18, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Leg_R_Foot_03
+  rotate: false
+  xy: 293, 148
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+Leg_R_Thigh_01
+  rotate: false
+  xy: 412, 47
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+LoinClothSD
+  rotate: false
+  xy: 181, 2
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Nose ring
+  rotate: true
+  xy: 221, 2
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+R_Wing_Flap_01
+  rotate: false
+  xy: 2, 6
+  size: 77, 109
+  orig: 81, 109
+  offset: 2, 0
+  index: -1
+R_Wing_Flap_02
+  rotate: false
+  xy: 2, 192
+  size: 121, 70
+  orig: 121, 70
+  offset: 0, 0
+  index: -1
+R_Wing_Flap_03_A
+  rotate: true
+  xy: 451, 122
+  size: 47, 12
+  orig: 47, 12
+  offset: 0, 0
+  index: -1
+R_Wing_Flap_03_B
+  rotate: true
+  xy: 400, 171
+  size: 91, 57
+  orig: 91, 57
+  offset: 0, 0
+  index: -1
+R_Wing_Flap_04_A
+  rotate: true
+  xy: 271, 12
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+R_Wing_Flap_04_B
+  rotate: true
+  xy: 316, 186
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+R_Wing_Flap_05_A
+  rotate: false
+  xy: 441, 49
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+R_Wing_Flap_06
+  rotate: false
+  xy: 229, 182
+  size: 85, 80
+  orig: 85, 80
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 309, 69
+  size: 68, 72
+  orig: 68, 72
+  offset: 0, 0
+  index: -1
+Teeh Lower
+  rotate: false
+  xy: 221, 16
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+Teeth Upper
+  rotate: false
+  xy: 347, 6
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,363 @@
+
+yaoshi.png
+size: 1315,337
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 1067, 120
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+qw3/KeyActivationPNG_00
+  rotate: true
+  xy: 143, 4
+  size: 30, 38
+  orig: 228, 88
+  offset: 9, 5
+  index: -1
+qw3/KeyActivationPNG_02
+  rotate: true
+  xy: 303, 64
+  size: 51, 63
+  orig: 228, 88
+  offset: 10, 8
+  index: -1
+qw3/KeyActivationPNG_03
+  rotate: false
+  xy: 1189, 171
+  size: 75, 69
+  orig: 228, 88
+  offset: 6, 10
+  index: -1
+qw3/KeyActivationPNG_04
+  rotate: true
+  xy: 369, 2
+  size: 113, 62
+  orig: 228, 88
+  offset: 10, 23
+  index: -1
+qw3/KeyActivationPNG_05
+  rotate: false
+  xy: 1122, 284
+  size: 152, 52
+  orig: 228, 88
+  offset: 29, 33
+  index: -1
+qw3/KeyActivationPNG_06
+  rotate: false
+  xy: 1122, 242
+  size: 145, 40
+  orig: 228, 88
+  offset: 67, 44
+  index: -1
+qw3/KeyActivationPNG_07
+  rotate: true
+  xy: 1276, 209
+  size: 127, 36
+  orig: 228, 88
+  offset: 97, 47
+  index: -1
+qw3/KeyActivationPNG_08
+  rotate: false
+  xy: 959, 2
+  size: 56, 23
+  orig: 228, 88
+  offset: 165, 57
+  index: -1
+tongyongUIguangxiao/map_light
+  rotate: false
+  xy: 1, 36
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+tuowei/Key_tail_00
+  rotate: false
+  xy: 348, 40
+  size: 14, 22
+  orig: 77, 81
+  offset: 31, 11
+  index: -1
+tuowei/Key_tail_01
+  rotate: true
+  xy: 1093, 322
+  size: 14, 27
+  orig: 77, 81
+  offset: 30, 12
+  index: -1
+tuowei/Key_tail_02
+  rotate: false
+  xy: 39, 2
+  size: 14, 32
+  orig: 77, 81
+  offset: 30, 12
+  index: -1
+tuowei/Key_tail_03
+  rotate: true
+  xy: 1086, 7
+  size: 18, 34
+  orig: 77, 81
+  offset: 29, 13
+  index: -1
+tuowei/Key_tail_04
+  rotate: true
+  xy: 920, 1
+  size: 24, 37
+  orig: 77, 81
+  offset: 30, 13
+  index: -1
+tuowei/Key_tail_05
+  rotate: true
+  xy: 183, 4
+  size: 30, 36
+  orig: 77, 81
+  offset: 30, 16
+  index: -1
+tuowei/Key_tail_06
+  rotate: false
+  xy: 1, 1
+  size: 36, 33
+  orig: 77, 81
+  offset: 30, 20
+  index: -1
+tuowei/Key_tail_07
+  rotate: false
+  xy: 101, 4
+  size: 40, 30
+  orig: 77, 81
+  offset: 30, 23
+  index: -1
+tuowei/Key_tail_08
+  rotate: false
+  xy: 303, 36
+  size: 43, 26
+  orig: 77, 81
+  offset: 31, 27
+  index: -1
+tuowei/Key_tail_09
+  rotate: false
+  xy: 873, 1
+  size: 45, 24
+  orig: 77, 81
+  offset: 31, 28
+  index: -1
+tuowei/Key_tail_10
+  rotate: false
+  xy: 55, 4
+  size: 44, 30
+  orig: 77, 81
+  offset: 33, 22
+  index: -1
+tuowei/Key_tail_11
+  rotate: false
+  xy: 1185, 4
+  size: 42, 36
+  orig: 77, 81
+  offset: 35, 16
+  index: -1
+tuowei/Key_tail_12
+  rotate: true
+  xy: 1142, 1
+  size: 39, 41
+  orig: 77, 81
+  offset: 38, 11
+  index: -1
+tuowei/Key_tail_13
+  rotate: true
+  xy: 1263, 79
+  size: 34, 45
+  orig: 77, 81
+  offset: 43, 7
+  index: -1
+tuowei/Key_tail_14
+  rotate: true
+  xy: 1093, 27
+  size: 29, 47
+  orig: 77, 81
+  offset: 48, 4
+  index: -1
+tuowei/Key_tail_15
+  rotate: true
+  xy: 1266, 167
+  size: 40, 48
+  orig: 77, 81
+  offset: 37, 2
+  index: -1
+tuowei/Key_tail_16
+  rotate: true
+  xy: 1265, 115
+  size: 50, 47
+  orig: 77, 81
+  offset: 27, 1
+  index: -1
+tuowei/Key_tail_17
+  rotate: false
+  xy: 1256, 33
+  size: 58, 44
+  orig: 77, 81
+  offset: 19, 1
+  index: -1
+tuowei/Key_tail_18
+  rotate: false
+  xy: 1189, 42
+  size: 65, 39
+  orig: 77, 81
+  offset: 12, 1
+  index: -1
+tuowei/Key_tail_19
+  rotate: false
+  xy: 297, 5
+  size: 70, 29
+  orig: 77, 81
+  offset: 6, 2
+  index: -1
+tuowei/Key_tail_20
+  rotate: false
+  xy: 1189, 83
+  size: 72, 39
+  orig: 77, 81
+  offset: 2, 2
+  index: -1
+tuowei/Key_tail_21
+  rotate: true
+  xy: 1067, 252
+  size: 68, 52
+  orig: 77, 81
+  offset: 1, 2
+  index: -1
+tuowei/Key_tail_22
+  rotate: true
+  xy: 1122, 58
+  size: 60, 65
+  orig: 77, 81
+  offset: 0, 2
+  index: -1
+tuowei/Key_tail_23
+  rotate: true
+  xy: 1189, 124
+  size: 45, 74
+  orig: 77, 81
+  offset: 0, 4
+  index: -1
+tuowei/Key_tail_24
+  rotate: true
+  xy: 221, 5
+  size: 29, 74
+  orig: 77, 81
+  offset: 0, 6
+  index: -1
+tuowei/Key_tail_25
+  rotate: true
+  xy: 1017, 7
+  size: 18, 67
+  orig: 77, 81
+  offset: 0, 13
+  index: -1
+tuowei/Key_tail_26
+  rotate: false
+  xy: 1093, 62
+  size: 10, 56
+  orig: 77, 81
+  offset: 1, 24
+  index: -1
+tuowei/Key_tail_27
+  rotate: false
+  xy: 1105, 76
+  size: 9, 42
+  orig: 77, 81
+  offset: 1, 37
+  index: -1
+tuowei/Key_tail_28
+  rotate: true
+  xy: 1067, 243
+  size: 7, 28
+  orig: 77, 81
+  offset: 2, 51
+  index: -1
+yaoshi/key_00
+  rotate: true
+  xy: 433, 3
+  size: 112, 218
+  orig: 137, 246
+  offset: 13, 14
+  index: -1
+yaoshi/key_01
+  rotate: false
+  xy: 450, 118
+  size: 112, 218
+  orig: 137, 246
+  offset: 13, 14
+  index: -1
+yaoshi/key_02
+  rotate: false
+  xy: 678, 118
+  size: 103, 218
+  orig: 137, 246
+  offset: 18, 14
+  index: -1
+yaoshi/key_03
+  rotate: false
+  xy: 303, 117
+  size: 65, 219
+  orig: 137, 246
+  offset: 38, 14
+  index: -1
+yaoshi/key_04
+  rotate: false
+  xy: 370, 117
+  size: 38, 219
+  orig: 137, 246
+  offset: 50, 14
+  index: -1
+yaoshi/key_05
+  rotate: false
+  xy: 887, 118
+  size: 88, 218
+  orig: 137, 246
+  offset: 24, 14
+  index: -1
+yaoshi/key_06
+  rotate: true
+  xy: 653, 7
+  size: 109, 218
+  orig: 137, 246
+  offset: 15, 14
+  index: -1
+yaoshi/key_07
+  rotate: false
+  xy: 977, 118
+  size: 88, 218
+  orig: 137, 246
+  offset: 26, 14
+  index: -1
+yaoshi/key_08
+  rotate: false
+  xy: 410, 117
+  size: 38, 219
+  orig: 137, 246
+  offset: 50, 14
+  index: -1
+yaoshi/key_09
+  rotate: true
+  xy: 873, 27
+  size: 89, 218
+  orig: 137, 246
+  offset: 23, 14
+  index: -1
+yaoshi/key_10
+  rotate: false
+  xy: 783, 118
+  size: 102, 218
+  orig: 137, 246
+  offset: 17, 14
+  index: -1
+yaoshi/key_11
+  rotate: false
+  xy: 564, 118
+  size: 112, 218
+  orig: 137, 246
+  offset: 13, 14
+  index: -1

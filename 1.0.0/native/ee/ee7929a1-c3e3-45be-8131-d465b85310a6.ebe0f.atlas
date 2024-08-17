@@ -1,0 +1,27 @@
+
+spin.jpg
+size: 866,494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow1
+  rotate: false
+  xy: 500, 14
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+spin_button_effect_circle
+  rotate: true
+  xy: 500, 122
+  size: 371, 365
+  orig: 500, 500
+  offset: 67, 66
+  index: -1
+spin_button_effect_sun
+  rotate: false
+  xy: 1, 1
+  size: 497, 492
+  orig: 500, 500
+  offset: 3, 0
+  index: -1

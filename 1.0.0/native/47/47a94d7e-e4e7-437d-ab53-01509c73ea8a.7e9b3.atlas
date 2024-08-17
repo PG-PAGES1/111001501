@@ -1,0 +1,174 @@
+
+stone.png
+size: 354,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jushizhenshitouxialuo/Death_dust_00
+  rotate: false
+  xy: 121, 0
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jushizhenshitouxialuo/Death_dust_01
+  rotate: false
+  xy: 321, 123
+  size: 32, 23
+  orig: 60, 38
+  offset: 28, 0
+  index: -1
+jushizhenshitouxialuo/Death_dust_02
+  rotate: false
+  xy: 214, 7
+  size: 70, 23
+  orig: 86, 38
+  offset: 16, 0
+  index: -1
+jushizhenshitouxialuo/Death_dust_03
+  rotate: false
+  xy: 121, 3
+  size: 91, 23
+  orig: 100, 38
+  offset: 9, 0
+  index: -1
+jushizhenshitouxialuo/Death_dust_04
+  rotate: false
+  xy: 213, 137
+  size: 100, 39
+  orig: 106, 46
+  offset: 6, 0
+  index: -1
+jushizhenshitouxialuo/Death_dust_05
+  rotate: false
+  xy: 122, 250
+  size: 101, 43
+  orig: 106, 48
+  offset: 5, 0
+  index: -1
+jushizhenshitouxialuo/Death_dust_06
+  rotate: false
+  xy: 225, 242
+  size: 104, 47
+  orig: 108, 50
+  offset: 4, 0
+  index: -1
+jushizhenshitouxialuo/Death_dust_07
+  rotate: false
+  xy: 126, 344
+  size: 107, 47
+  orig: 110, 50
+  offset: 3, 0
+  index: -1
+jushizhenshitouxialuo/Death_dust_08
+  rotate: false
+  xy: 122, 295
+  size: 107, 47
+  orig: 110, 50
+  offset: 3, 0
+  index: -1
+jushizhenshitouxialuo/Death_dust_09
+  rotate: false
+  xy: 231, 291
+  size: 105, 47
+  orig: 106, 50
+  offset: 1, 0
+  index: -1
+jushizhenshitouxialuo/Death_dust_10
+  rotate: false
+  xy: 235, 340
+  size: 106, 47
+  orig: 106, 50
+  offset: 0, 0
+  index: -1
+jushizhenshitouxialuo/Death_dust_11
+  rotate: true
+  xy: 214, 32
+  size: 103, 47
+  orig: 104, 50
+  offset: 1, 0
+  index: -1
+rock_a01
+  rotate: true
+  xy: 115, 133
+  size: 115, 96
+  orig: 116, 96
+  offset: 1, 0
+  index: -1
+rock_a02
+  rotate: true
+  xy: 263, 47
+  size: 88, 56
+  orig: 88, 57
+  offset: 0, 1
+  index: -1
+rock_a03
+  rotate: false
+  xy: 213, 178
+  size: 89, 62
+  orig: 89, 62
+  offset: 0, 0
+  index: -1
+rock_a04
+  rotate: true
+  xy: 0, 0
+  size: 112, 119
+  orig: 112, 119
+  offset: 0, 0
+  index: -1
+rock_b01
+  rotate: false
+  xy: 0, 388
+  size: 124, 135
+  orig: 124, 135
+  offset: 0, 0
+  index: -1
+rock_b02
+  rotate: false
+  xy: 0, 250
+  size: 120, 136
+  orig: 120, 136
+  offset: 0, 0
+  index: -1
+rock_b03
+  rotate: false
+  xy: 126, 393
+  size: 122, 130
+  orig: 122, 130
+  offset: 0, 0
+  index: -1
+rock_c01
+  rotate: true
+  xy: 250, 389
+  size: 134, 97
+  orig: 134, 97
+  offset: 0, 0
+  index: -1
+rock_c02
+  rotate: false
+  xy: 121, 28
+  size: 91, 103
+  orig: 91, 103
+  offset: 0, 0
+  index: -1
+rock_c03
+  rotate: false
+  xy: 0, 114
+  size: 113, 134
+  orig: 113, 134
+  offset: 0, 0
+  index: -1
+rock_d01
+  rotate: true
+  xy: 315, 148
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+rock_d02
+  rotate: false
+  xy: 304, 191
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+baoxiang.png
+size: 623,354
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest_closed
+  rotate: false
+  xy: 318, 123
+  size: 304, 230
+  orig: 305, 230
+  offset: 1, 0
+  index: -1
+chest_opened
+  rotate: true
+  xy: 1, 8
+  size: 345, 315
+  orig: 350, 315
+  offset: 3, 0
+  index: -1
+glow
+  rotate: false
+  xy: 318, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1

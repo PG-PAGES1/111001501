@@ -1,0 +1,244 @@
+
+respin.png
+size: 1707,698
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoxiangcangbaotu/diamond_glow
+  rotate: true
+  xy: 717, 1
+  size: 142, 143
+  orig: 227, 221
+  offset: 41, 39
+  index: -1
+changjingqiehuantexiao/respinSwirl_000
+  rotate: false
+  xy: 123, 137
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_001
+  rotate: false
+  xy: 225, 137
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_002
+  rotate: false
+  xy: 327, 137
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_003
+  rotate: false
+  xy: 123, 35
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_004
+  rotate: false
+  xy: 1, 15
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_005
+  rotate: false
+  xy: 225, 35
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_006
+  rotate: false
+  xy: 327, 35
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_007
+  rotate: false
+  xy: 1193, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_008
+  rotate: false
+  xy: 1295, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_009
+  rotate: false
+  xy: 1397, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_010
+  rotate: false
+  xy: 1499, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_011
+  rotate: false
+  xy: 1601, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_012
+  rotate: false
+  xy: 1606, 597
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_013
+  rotate: false
+  xy: 1606, 495
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_014
+  rotate: false
+  xy: 1606, 393
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_015
+  rotate: false
+  xy: 1193, 118
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_016
+  rotate: false
+  xy: 1295, 118
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_017
+  rotate: false
+  xy: 1397, 118
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_018
+  rotate: false
+  xy: 1499, 118
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_019
+  rotate: false
+  xy: 1601, 118
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_020
+  rotate: false
+  xy: 1193, 16
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_021
+  rotate: false
+  xy: 1295, 16
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_022
+  rotate: false
+  xy: 1397, 16
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_023
+  rotate: false
+  xy: 1499, 16
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+changjingqiehuantexiao/respinSwirl_024
+  rotate: false
+  xy: 1601, 16
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+gem_respin
+  rotate: false
+  xy: 717, 145
+  size: 170, 174
+  orig: 200, 200
+  offset: 15, 13
+  index: -1
+gem_respin_glow
+  rotate: false
+  xy: 474, 78
+  size: 241, 241
+  orig: 241, 241
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 1, 117
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+magic_circle
+  rotate: true
+  xy: 474, 321
+  size: 376, 415
+  orig: 376, 415
+  offset: 0, 0
+  index: -1
+magic_circle_in
+  rotate: false
+  xy: 891, 329
+  size: 372, 368
+  orig: 372, 368
+  offset: 0, 0
+  index: -1
+magic_circle_out
+  rotate: false
+  xy: 1, 239
+  size: 471, 458
+  orig: 471, 458
+  offset: 0, 0
+  index: -1
+map_light
+  rotate: false
+  xy: 891, 27
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+spin
+  rotate: true
+  xy: 1265, 322
+  size: 375, 339
+  orig: 375, 339
+  offset: 0, 0
+  index: -1

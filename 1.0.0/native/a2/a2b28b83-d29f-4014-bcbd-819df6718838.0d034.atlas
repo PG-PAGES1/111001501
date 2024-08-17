@@ -1,0 +1,783 @@
+
+spgem.png
+size: 1191,609
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arrow_Single_00
+  rotate: false
+  xy: 218, 57
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Arrow_Single_01
+  rotate: false
+  xy: 307, 56
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Arrow_Single_02
+  rotate: false
+  xy: 1084, 15
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Arrow_Single_03
+  rotate: false
+  xy: 411, 50
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Arrow_Single_04
+  rotate: false
+  xy: 411, 7
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Arrow_Single_05
+  rotate: false
+  xy: 454, 47
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Arrow_Single_06
+  rotate: false
+  xy: 497, 47
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Arrow_Single_07
+  rotate: false
+  xy: 540, 47
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Arrow_Single_08
+  rotate: false
+  xy: 454, 4
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Arrow_Single_09
+  rotate: false
+  xy: 497, 4
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Arrow_Single_10
+  rotate: false
+  xy: 540, 4
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Arrow_Single_11
+  rotate: false
+  xy: 583, 33
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Arrow_Single_12
+  rotate: false
+  xy: 626, 33
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+SGEM_gemCharge_18FPS_000
+  rotate: false
+  xy: 263, 248
+  size: 1, 1
+  orig: 133, 113
+  offset: 132, 0
+  index: -1
+SGEM_gemCharge_18FPS_001
+  rotate: false
+  xy: 263, 248
+  size: 1, 1
+  orig: 133, 113
+  offset: 132, 0
+  index: -1
+SGEM_gemCharge_18FPS_045
+  rotate: false
+  xy: 263, 248
+  size: 1, 1
+  orig: 133, 113
+  offset: 132, 0
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_000
+  rotate: false
+  xy: 263, 248
+  size: 1, 1
+  orig: 133, 113
+  offset: 132, 0
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_045
+  rotate: false
+  xy: 263, 248
+  size: 1, 1
+  orig: 133, 113
+  offset: 132, 0
+  index: -1
+SGEM_gemCharge_18FPS_003
+  rotate: false
+  xy: 150, 440
+  size: 3, 3
+  orig: 133, 113
+  offset: 89, 33
+  index: -1
+SGEM_gemCharge_18FPS_004
+  rotate: false
+  xy: 976, 1
+  size: 44, 40
+  orig: 133, 113
+  offset: 48, 33
+  index: -1
+SGEM_gemCharge_18FPS_005
+  rotate: false
+  xy: 924, 179
+  size: 14, 30
+  orig: 133, 113
+  offset: 49, 42
+  index: -1
+SGEM_gemCharge_18FPS_006
+  rotate: true
+  xy: 888, 232
+  size: 116, 34
+  orig: 133, 113
+  offset: 10, 39
+  index: -1
+SGEM_gemCharge_18FPS_007
+  rotate: true
+  xy: 1147, 366
+  size: 115, 43
+  orig: 133, 113
+  offset: 10, 25
+  index: -1
+SGEM_gemCharge_18FPS_008
+  rotate: false
+  xy: 1032, 322
+  size: 113, 46
+  orig: 133, 113
+  offset: 11, 25
+  index: -1
+SGEM_gemCharge_18FPS_009
+  rotate: false
+  xy: 380, 199
+  size: 108, 91
+  orig: 133, 113
+  offset: 15, 11
+  index: -1
+SGEM_gemCharge_18FPS_010
+  rotate: false
+  xy: 490, 197
+  size: 104, 92
+  orig: 133, 113
+  offset: 18, 12
+  index: -1
+SGEM_gemCharge_18FPS_011
+  rotate: false
+  xy: 596, 153
+  size: 105, 89
+  orig: 133, 113
+  offset: 22, 14
+  index: -1
+SGEM_gemCharge_18FPS_012
+  rotate: false
+  xy: 888, 179
+  size: 34, 51
+  orig: 133, 113
+  offset: 60, 33
+  index: -1
+SGEM_gemCharge_18FPS_013
+  rotate: true
+  xy: 924, 211
+  size: 52, 78
+  orig: 133, 113
+  offset: 54, 18
+  index: -1
+SGEM_gemCharge_18FPS_014
+  rotate: true
+  xy: 807, 186
+  size: 67, 79
+  orig: 133, 113
+  offset: 38, 21
+  index: -1
+SGEM_gemCharge_18FPS_015
+  rotate: true
+  xy: 148, 76
+  size: 62, 68
+  orig: 133, 113
+  offset: 44, 24
+  index: -1
+SGEM_gemCharge_18FPS_016
+  rotate: false
+  xy: 546, 402
+  size: 50, 63
+  orig: 133, 113
+  offset: 49, 26
+  index: -1
+SGEM_gemCharge_18FPS_017
+  rotate: false
+  xy: 1141, 217
+  size: 49, 47
+  orig: 133, 113
+  offset: 51, 33
+  index: -1
+SGEM_gemCharge_18FPS_018
+  rotate: true
+  xy: 1147, 319
+  size: 45, 43
+  orig: 133, 113
+  offset: 53, 35
+  index: -1
+SGEM_gemCharge_18FPS_019
+  rotate: true
+  xy: 1145, 79
+  size: 40, 45
+  orig: 133, 113
+  offset: 54, 32
+  index: -1
+SGEM_gemCharge_18FPS_020
+  rotate: true
+  xy: 1145, 39
+  size: 38, 45
+  orig: 133, 113
+  offset: 53, 34
+  index: -1
+SGEM_gemCharge_18FPS_021
+  rotate: false
+  xy: 257, 1
+  size: 48, 36
+  orig: 133, 113
+  offset: 53, 38
+  index: -1
+SGEM_gemCharge_18FPS_022
+  rotate: true
+  xy: 1163, 579
+  size: 29, 22
+  orig: 133, 113
+  offset: 66, 39
+  index: -1
+SGEM_gemCharge_18FPS_023
+  rotate: true
+  xy: 274, 423
+  size: 32, 28
+  orig: 133, 113
+  offset: 63, 39
+  index: -1
+SGEM_gemCharge_18FPS_024
+  rotate: false
+  xy: 957, 99
+  size: 53, 53
+  orig: 133, 113
+  offset: 49, 29
+  index: -1
+SGEM_gemCharge_18FPS_025
+  rotate: false
+  xy: 1012, 93
+  size: 70, 69
+  orig: 133, 113
+  offset: 40, 21
+  index: -1
+SGEM_gemCharge_18FPS_026
+  rotate: true
+  xy: 1004, 164
+  size: 77, 78
+  orig: 133, 113
+  offset: 36, 17
+  index: -1
+SGEM_gemCharge_18FPS_027
+  rotate: false
+  xy: 703, 144
+  size: 95, 95
+  orig: 133, 113
+  offset: 27, 8
+  index: -1
+SGEM_gemCharge_18FPS_028
+  rotate: false
+  xy: 376, 93
+  size: 106, 104
+  orig: 133, 113
+  offset: 20, 4
+  index: -1
+SGEM_gemCharge_18FPS_029
+  rotate: false
+  xy: 484, 90
+  size: 106, 105
+  orig: 133, 113
+  offset: 20, 4
+  index: -1
+SGEM_gemCharge_18FPS_030
+  rotate: false
+  xy: 596, 244
+  size: 105, 106
+  orig: 133, 113
+  offset: 21, 3
+  index: -1
+SGEM_gemCharge_18FPS_036
+  rotate: true
+  xy: 388, 401
+  size: 9, 33
+  orig: 133, 113
+  offset: 56, 35
+  index: -1
+SGEM_gemCharge_18FPS_037
+  rotate: false
+  xy: 218, 100
+  size: 43, 38
+  orig: 133, 113
+  offset: 53, 39
+  index: -1
+SGEM_gemCharge_18FPS_038
+  rotate: true
+  xy: 1045, 48
+  size: 43, 37
+  orig: 133, 113
+  offset: 53, 39
+  index: -1
+SGEM_gemCharge_18FPS_039
+  rotate: true
+  xy: 669, 22
+  size: 39, 41
+  orig: 133, 113
+  offset: 56, 34
+  index: -1
+SGEM_gemCharge_18FPS_041
+  rotate: true
+  xy: 755, 21
+  size: 33, 34
+  orig: 133, 113
+  offset: 59, 38
+  index: -1
+SGEM_gemCharge_18FPS_043
+  rotate: true
+  xy: 205, 39
+  size: 16, 26
+  orig: 133, 113
+  offset: 47, 41
+  index: -1
+SGEM_gemCharge_18FPS_044
+  rotate: true
+  xy: 881, 1
+  size: 56, 40
+  orig: 133, 113
+  offset: 47, 41
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_003
+  rotate: false
+  xy: 261, 39
+  size: 33, 17
+  orig: 133, 113
+  offset: 61, 30
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_004
+  rotate: false
+  xy: 307, 1
+  size: 52, 53
+  orig: 133, 113
+  offset: 45, 29
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_005
+  rotate: true
+  xy: 939, 50
+  size: 47, 51
+  orig: 133, 113
+  offset: 45, 31
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_006
+  rotate: true
+  xy: 861, 350
+  size: 120, 52
+  orig: 133, 113
+  offset: 8, 26
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_007
+  rotate: false
+  xy: 307, 412
+  size: 118, 55
+  orig: 133, 113
+  offset: 9, 23
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_008
+  rotate: false
+  xy: 427, 401
+  size: 117, 64
+  orig: 133, 113
+  offset: 9, 10
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_009
+  rotate: false
+  xy: 274, 312
+  size: 112, 98
+  orig: 133, 113
+  offset: 13, 9
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_010
+  rotate: false
+  xy: 150, 251
+  size: 114, 97
+  orig: 133, 113
+  offset: 16, 9
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_011
+  rotate: true
+  xy: 500, 291
+  size: 108, 93
+  orig: 133, 113
+  offset: 21, 12
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_012
+  rotate: false
+  xy: 807, 255
+  size: 79, 86
+  orig: 133, 113
+  offset: 31, 14
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_013
+  rotate: true
+  xy: 689, 63
+  size: 79, 84
+  orig: 133, 113
+  offset: 36, 16
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_014
+  rotate: true
+  xy: 1009, 243
+  size: 77, 84
+  orig: 133, 113
+  offset: 36, 18
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_015
+  rotate: false
+  xy: 137, 1
+  size: 66, 73
+  orig: 133, 113
+  offset: 42, 21
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_016
+  rotate: false
+  xy: 1084, 118
+  size: 58, 67
+  orig: 133, 113
+  offset: 46, 24
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_017
+  rotate: false
+  xy: 1084, 187
+  size: 55, 51
+  orig: 133, 113
+  offset: 48, 31
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_018
+  rotate: true
+  xy: 1141, 266
+  size: 51, 49
+  orig: 133, 113
+  offset: 50, 32
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_019
+  rotate: false
+  xy: 957, 154
+  size: 45, 55
+  orig: 133, 113
+  offset: 51, 25
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_020
+  rotate: true
+  xy: 992, 43
+  size: 48, 51
+  orig: 133, 113
+  offset: 46, 31
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_021
+  rotate: false
+  xy: 881, 59
+  size: 56, 42
+  orig: 133, 113
+  offset: 48, 34
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_022
+  rotate: true
+  xy: 841, 57
+  size: 47, 38
+  orig: 133, 113
+  offset: 54, 36
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_023
+  rotate: true
+  xy: 841, 8
+  size: 47, 38
+  orig: 133, 113
+  offset: 54, 36
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_024
+  rotate: false
+  xy: 1084, 58
+  size: 59, 58
+  orig: 133, 113
+  offset: 45, 27
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_025
+  rotate: false
+  xy: 800, 106
+  size: 79, 78
+  orig: 133, 113
+  offset: 33, 18
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_026
+  rotate: false
+  xy: 924, 265
+  size: 83, 84
+  orig: 133, 113
+  offset: 33, 14
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_027
+  rotate: false
+  xy: 703, 241
+  size: 102, 100
+  orig: 133, 113
+  offset: 23, 6
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_028
+  rotate: false
+  xy: 148, 140
+  size: 113, 109
+  orig: 133, 113
+  offset: 16, 1
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_029
+  rotate: false
+  xy: 1032, 370
+  size: 113, 111
+  orig: 133, 113
+  offset: 16, 0
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_030
+  rotate: true
+  xy: 263, 99
+  size: 110, 111
+  orig: 133, 113
+  offset: 19, 0
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_031
+  rotate: false
+  xy: 881, 103
+  size: 74, 74
+  orig: 133, 113
+  offset: 56, 8
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_032
+  rotate: false
+  xy: 388, 292
+  size: 110, 107
+  orig: 133, 113
+  offset: 20, 0
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_034
+  rotate: false
+  xy: 137, 125
+  size: 8, 8
+  orig: 133, 113
+  offset: 52, 60
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_036
+  rotate: false
+  xy: 1022, 1
+  size: 18, 40
+  orig: 133, 113
+  offset: 49, 32
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_037
+  rotate: true
+  xy: 361, 1
+  size: 53, 48
+  orig: 133, 113
+  offset: 49, 33
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_038
+  rotate: false
+  xy: 923, 1
+  size: 51, 47
+  orig: 133, 113
+  offset: 50, 33
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_039
+  rotate: false
+  xy: 1144, 167
+  size: 46, 48
+  orig: 133, 113
+  offset: 53, 31
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_040
+  rotate: true
+  xy: 1144, 121
+  size: 44, 46
+  orig: 133, 113
+  offset: 55, 31
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_041
+  rotate: true
+  xy: 712, 22
+  size: 39, 41
+  orig: 133, 113
+  offset: 56, 34
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_042
+  rotate: false
+  xy: 261, 58
+  size: 44, 39
+  orig: 133, 113
+  offset: 48, 37
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_043
+  rotate: false
+  xy: 205, 1
+  size: 50, 36
+  orig: 133, 113
+  offset: 42, 35
+  index: -1
+SGEM_gemCharge_colorChange_18FPS_044
+  rotate: false
+  xy: 775, 56
+  size: 64, 48
+  orig: 133, 113
+  offset: 43, 37
+  index: -1
+lightning9xGems_INNER__000
+  rotate: true
+  xy: 1095, 240
+  size: 80, 44
+  orig: 169, 169
+  offset: 51, 81
+  index: -1
+lightning9xGems_INNER__001
+  rotate: true
+  xy: 266, 211
+  size: 99, 112
+  orig: 169, 169
+  offset: 40, 34
+  index: -1
+lightning9xGems_INNER__004
+  rotate: false
+  xy: 915, 351
+  size: 115, 120
+  orig: 169, 169
+  offset: 27, 28
+  index: -1
+lightning9xGems_INNER__006
+  rotate: false
+  xy: 307, 469
+  size: 145, 139
+  orig: 169, 169
+  offset: 6, 17
+  index: -1
+lightning9xGems_INNER__007
+  rotate: false
+  xy: 1, 287
+  size: 147, 156
+  orig: 169, 169
+  offset: 7, 7
+  index: -1
+lightning9xGems_INNER__009
+  rotate: false
+  xy: 1, 2
+  size: 134, 131
+  orig: 169, 169
+  offset: 25, 20
+  index: -1
+lightning9xGems_INNER__010
+  rotate: true
+  xy: 598, 352
+  size: 126, 131
+  orig: 169, 169
+  offset: 28, 26
+  index: -1
+lightning9xGems_INNER__011
+  rotate: false
+  xy: 598, 480
+  size: 147, 128
+  orig: 169, 169
+  offset: 10, 21
+  index: -1
+lightning9xGems_INNER__012
+  rotate: true
+  xy: 731, 343
+  size: 127, 128
+  orig: 169, 169
+  offset: 20, 21
+  index: -1
+lightning9xGems_OUTER_000
+  rotate: false
+  xy: 592, 76
+  size: 95, 75
+  orig: 169, 169
+  offset: 49, 79
+  index: -1
+lightning9xGems_OUTER_001
+  rotate: true
+  xy: 155, 350
+  size: 105, 117
+  orig: 169, 169
+  offset: 39, 32
+  index: -1
+lightning9xGems_OUTER_004
+  rotate: false
+  xy: 1023, 483
+  size: 138, 125
+  orig: 169, 169
+  offset: 25, 26
+  index: -1
+lightning9xGems_OUTER_006
+  rotate: false
+  xy: 155, 457
+  size: 150, 151
+  orig: 169, 169
+  offset: 3, 15
+  index: -1
+lightning9xGems_OUTER_007
+  rotate: false
+  xy: 1, 445
+  size: 152, 163
+  orig: 169, 169
+  offset: 4, 3
+  index: -1
+lightning9xGems_OUTER_009
+  rotate: true
+  xy: 454, 467
+  size: 141, 142
+  orig: 169, 169
+  offset: 19, 19
+  index: -1
+lightning9xGems_OUTER_010
+  rotate: false
+  xy: 747, 472
+  size: 137, 136
+  orig: 169, 169
+  offset: 20, 23
+  index: -1
+lightning9xGems_OUTER_011
+  rotate: true
+  xy: 1, 135
+  size: 150, 145
+  orig: 169, 169
+  offset: 9, 17
+  index: -1
+lightning9xGems_OUTER_012
+  rotate: false
+  xy: 886, 473
+  size: 135, 135
+  orig: 169, 169
+  offset: 18, 16
+  index: -1

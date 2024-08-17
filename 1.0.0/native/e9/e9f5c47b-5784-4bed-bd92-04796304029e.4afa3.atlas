@@ -1,0 +1,258 @@
+
+witch.png
+size: 248,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dress01
+  rotate: false
+  xy: 87, 107
+  size: 44, 137
+  orig: 44, 137
+  offset: 0, 0
+  index: -1
+Dress02
+  rotate: false
+  xy: 2, 246
+  size: 107, 131
+  orig: 107, 131
+  offset: 0, 0
+  index: -1
+Dress03
+  rotate: false
+  xy: 2, 3
+  size: 91, 95
+  orig: 91, 95
+  offset: 0, 0
+  index: -1
+Dress04
+  rotate: false
+  xy: 2, 379
+  size: 116, 142
+  orig: 116, 142
+  offset: 0, 0
+  index: -1
+L_Arm01
+  rotate: true
+  xy: 95, 2
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+L_Arm02
+  rotate: true
+  xy: 216, 166
+  size: 65, 20
+  orig: 65, 20
+  offset: 0, 0
+  index: -1
+L_F01
+  rotate: true
+  xy: 229, 365
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+L_F02
+  rotate: false
+  xy: 111, 362
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+L_Fa01
+  rotate: true
+  xy: 111, 340
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+L_Fb01
+  rotate: true
+  xy: 150, 46
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+L_Fb02
+  rotate: false
+  xy: 229, 347
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+L_Fc01
+  rotate: true
+  xy: 238, 165
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+L_Fc02
+  rotate: false
+  xy: 237, 469
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+L_wing
+  rotate: true
+  xy: 120, 319
+  size: 98, 107
+  orig: 98, 107
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 229, 389
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+R_Arm01
+  rotate: false
+  xy: 192, 91
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+R_Arm02
+  rotate: true
+  xy: 124, 45
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+R_F01
+  rotate: true
+  xy: 238, 209
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+R_FA01
+  rotate: true
+  xy: 237, 480
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+R_FA02
+  rotate: false
+  xy: 173, 46
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+R_FB01
+  rotate: false
+  xy: 216, 154
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+R_FB02
+  rotate: true
+  xy: 238, 194
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+R_FC01
+  rotate: false
+  xy: 151, 31
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+R_FC02
+  rotate: true
+  xy: 238, 181
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 184, 250
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+R_wing
+  rotate: false
+  xy: 133, 145
+  size: 81, 99
+  orig: 81, 99
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 100
+  size: 83, 144
+  orig: 83, 144
+  offset: 0, 0
+  index: -1
+chest_L
+  rotate: false
+  xy: 150, 58
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+chest_R
+  rotate: true
+  xy: 216, 233
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 124, 95
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+hair01
+  rotate: true
+  xy: 184, 267
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+hair02
+  rotate: false
+  xy: 111, 246
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: false
+  xy: 95, 45
+  size: 27, 60
+  orig: 27, 60
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 133, 92
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+horn_B
+  rotate: false
+  xy: 120, 419
+  size: 115, 102
+  orig: 115, 102
+  offset: 0, 0
+  index: -1
+ornament
+  rotate: false
+  xy: 237, 501
+  size: 9, 20
+  orig: 9, 20
+  offset: 0, 0
+  index: -1

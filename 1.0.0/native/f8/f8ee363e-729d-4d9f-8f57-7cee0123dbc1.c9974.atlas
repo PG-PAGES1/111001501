@@ -1,0 +1,125 @@
+
+treasurechest.png
+size: 297,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Calf_L
+  rotate: false
+  xy: 56, 4
+  size: 15, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+box_under_1
+  rotate: true
+  xy: 85, 28
+  size: 111, 50
+  orig: 111, 50
+  offset: 0, 0
+  index: -1
+box_under_2
+  rotate: true
+  xy: 137, 38
+  size: 101, 64
+  orig: 101, 64
+  offset: 0, 0
+  index: -1
+box_up_1
+  rotate: true
+  xy: 2, 25
+  size: 114, 81
+  orig: 115, 81
+  offset: 0, 0
+  index: -1
+box_up_2
+  rotate: true
+  xy: 203, 10
+  size: 97, 60
+  orig: 97, 60
+  offset: 0, 0
+  index: -1
+calf_R
+  rotate: true
+  xy: 73, 8
+  size: 15, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: false
+  xy: 100, 2
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: false
+  xy: 29, 4
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+ear_parts
+  rotate: true
+  xy: 137, 28
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+eyeball
+  rotate: true
+  xy: 131, 3
+  size: 23, 26
+  orig: 24, 27
+  offset: 1, 0
+  index: -1
+foot_L
+  rotate: true
+  xy: 2, 2
+  size: 21, 12
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+foot_R
+  rotate: true
+  xy: 16, 2
+  size: 21, 11
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 73, 2
+  size: 4, 10
+  orig: 7, 11
+  offset: 0, 1
+  index: -1
+leg_R
+  rotate: false
+  xy: 145, 29
+  size: 5, 7
+  orig: 5, 8
+  offset: 0, 1
+  index: -1
+pupil
+  rotate: true
+  xy: 265, 2
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+teeth_under_1
+  rotate: true
+  xy: 265, 13
+  size: 94, 25
+  orig: 101, 25
+  offset: 7, 0
+  index: -1
+teeth_up_1
+  rotate: false
+  xy: 203, 109
+  size: 92, 30
+  orig: 92, 30
+  offset: 0, 0
+  index: -1
